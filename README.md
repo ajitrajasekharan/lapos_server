@@ -15,7 +15,7 @@ g++ compiler
 
 Type make
 
-*Tested this Ubuntu 16.04 *
+*Tested this Ubuntu 16.04*
 
 # Usage
 
