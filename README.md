@@ -33,5 +33,6 @@ MIT License for this server wrapper. Original tagger and server code also covere
 
 *Dyad license*
 https://github.com/rxi/dyad/blob/master/LICENSE
+
 *POS tagger license*
 http://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/lapos/ 
