@@ -30,7 +30,8 @@ Type make
 # License
 
 MIT License for this server wrapper. Original tagger and server code also covered by MIT license.
-Dyad license
+
+*Dyad license*
 https://github.com/rxi/dyad/blob/master/LICENSE
-POS tagger license
+*POS tagger license*
 http://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/lapos/ 
