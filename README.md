@@ -7,10 +7,15 @@ The paper for the model https://acl-arc.comp.nus.edu.sg//~antho/W/W11/W11-0328.p
 
 The server component is based on the repository https://github.com/rxi/dyad
 
+# Requirements
+
+g++ compiler
+
 # Install steps
 
 Type make
 
+*Tested this Ubuntu 16.04 *
 
 # Usage
 
