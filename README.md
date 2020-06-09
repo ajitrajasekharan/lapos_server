@@ -24,7 +24,7 @@ wget -O out "http://127.0.0.1:8901/John met Mary in the park"
 
 *Output*
 
-(lapos_output.png)
+(pos_output.png)
 
 
 # License
