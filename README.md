@@ -7,22 +7,24 @@ The paper for the model https://acl-arc.comp.nus.edu.sg//~antho/W/W11/W11-0328.p
 
 The server component is based on the repository https://github.com/rxi/dyad
 
-# Install steps and usage. 
+# Install steps
 
 Type make
 
 
 # Usage
 
-# Server
+*Server*
 
 ./run_server.sh
 
-# Client
+*Client*
 
 wget -O out "http://127.0.0.1:8901/John met Mary in the park"
 
+*Output*
 
+(lapos_output.png)
 
 
 # License
