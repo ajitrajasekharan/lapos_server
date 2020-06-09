@@ -14,15 +14,15 @@ Type make
 
 # Usage
 
-*Server*
+**Server**
 
 ./run_server.sh
 
-*Client*
+**Client**
 
-**wget -O out "http://127.0.0.1:8901/John met Mary in the park"**
+*wget -O out "http://127.0.0.1:8901/John met Mary in the park"*
 
-*Output*
+**Output**
 
 ![wget output](pos_output.png)
 
