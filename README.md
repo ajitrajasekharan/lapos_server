@@ -1,5 +1,5 @@
 # lapos_server
-An existing C++ CRF based POS tagger exposed as a service (suitable for fast POS tagging at scale)
+An existing C++ CRF based POS tagger exposed as a service *(suitable for fast POS tagging at scale)*
 
 This is a server version of a CRF based POS tagger (https://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/lapos/)
 
@@ -29,6 +29,8 @@ wget -O out "http://127.0.0.1:8901/John met Mary in the park"
 
 # License
 
-MIT License. Original tagger and server code also covered by MIT license.
+MIT License for this server wrapper. Original tagger and server code also covered by MIT license.
+Dyad license
 https://github.com/rxi/dyad/blob/master/LICENSE
-http://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/lapos/ lapos_server
+POS tagger license
+http://www.logos.ic.i.u-tokyo.ac.jp/~tsuruoka/lapos/ 
