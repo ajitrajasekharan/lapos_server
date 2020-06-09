@@ -20,7 +20,7 @@ Type make
 
 *Client*
 
-wget -O out "http://127.0.0.1:8901/John met Mary in the park"
+**wget -O out "http://127.0.0.1:8901/John met Mary in the park"**
 
 *Output*
 
